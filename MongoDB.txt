@@ -1,0 +1,4 @@
+MongoDB : myshop
+
+username: user0
+password: bhhZfzmxP5wiaRvN
